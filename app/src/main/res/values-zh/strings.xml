@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ksu4040e072_1103</string>
+    <string name="title_main_activity">輸入</string>
+    <string name="title_result_activity">結果</string>
+    <string name="text_tvTitle">請輸入資料</string>
+    <string name="hint_etProgramming">國文</string>
+    <string name="hint_etDataStructure">自然</string>
+    <string name="hint_etAlgorithm">社會</string>
+    <string name="hint_etB">數學</string>
+    <string name="text_btSubmit">送出</string>
+    <string name="text_btBack">返回</string>
+    <string name="text_tvResultTitle">結果</string>
+</resources>
